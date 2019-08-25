@@ -1,0 +1,17 @@
+.title,.card-category,.dashboard-cardheader, td, th{
+    color:#fff;
+}
+.card-chart{
+    background-color:#27293d;
+}
+.card-tasks{}
+.dashboard-card,.dashboard-cardheader{
+    background-color:#27293d;
+}
+.task-table{
+    overflow: -moz-scrollbars-vertical;
+    height: 443px;
+}
+td {
+    vertical-align: middle;
+}
